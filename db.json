@@ -1,6 +1,6 @@
 {
   "posts": [
-      {
+           {
          "instancia":"USC",
          "noNf":7154.0,
          "cdSerieNf":"2",
@@ -209,76 +209,6 @@
          "cdSerieNf":"2",
          "fazenda":"FAZENDA BOA ESPERANCA",
          "vlLiqNf":268914.83
-      },
-      {
-         "instancia":"USC",
-         "noNf":7123.0,
-         "cdSerieNf":"2",
-         "fazenda":"FAZENDA SANTA JULIA",
-         "vlLiqNf":7838.13
-      },
-      {
-         "instancia":"USC",
-         "noNf":7124.0,
-         "cdSerieNf":"2",
-         "fazenda":"SITIO SANTA RITA",
-         "vlLiqNf":17364.88
-      },
-      {
-         "instancia":"USC",
-         "noNf":7125.0,
-         "cdSerieNf":"2",
-         "fazenda":"FAZENDA ESTIVA",
-         "vlLiqNf":11265.35
-      },
-      {
-         "instancia":"USC",
-         "noNf":7126.0,
-         "cdSerieNf":"2",
-         "fazenda":"FAZ SAO JOAO DO BARREIRO",
-         "vlLiqNf":22247.16
-      },
-      {
-         "instancia":"USC",
-         "noNf":7127.0,
-         "cdSerieNf":"2",
-         "fazenda":"FAZENDA SAO JOAQUIM",
-         "vlLiqNf":84879.3
-      },
-      {
-         "instancia":"USC",
-         "noNf":7128.0,
-         "cdSerieNf":"2",
-         "fazenda":"SITIO SAO JOSE",
-         "vlLiqNf":6476.21
-      },
-      {
-         "instancia":"USC",
-         "noNf":7129.0,
-         "cdSerieNf":"2",
-         "fazenda":"SITIO SAO JUDAS TADEU",
-         "vlLiqNf":44669.09
-      },
-      {
-         "instancia":"USC",
-         "noNf":7130.0,
-         "cdSerieNf":"2",
-         "fazenda":"CHACARA BALDAN",
-         "vlLiqNf":4582.12
-      },
-      {
-         "instancia":"USC",
-         "noNf":7259.0,
-         "cdSerieNf":"2",
-         "fazenda":"FAZENDA TANQUINHO I",
-         "vlLiqNf":222787.42
-      },
-      {
-         "instancia":"USC",
-         "noNf":7183.0,
-         "cdSerieNf":"2",
-         "fazenda":"SITIO EVANGELISTA",
-         "vlLiqNf":14681.65
       }
   ]
 }
