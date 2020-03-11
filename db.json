@@ -1,0 +1,15 @@
+{
+  "posts": [
+      {"instancia": "USC", "noNf": 7259.0, "cdSerieNf": "2", "fazenda": "FAZENDA TANQUINHO I", "vlLiqNf": 222787.42 },
+      {"instancia": "USC", "noNf": 7183.0, "cdSerieNf": "2", "fazenda": "SITIO EVANGELISTA", "vlLiqNf": 14681.65 },
+      {"instancia": "USC", "noNf": 7195.0, "cdSerieNf": "2", "fazenda": "SITIO SAO JOAQUIM", "vlLiqNf": 26287.52 },
+      {"instancia": "USC", "noNf": 7196.0, "cdSerieNf": "2", "fazenda": "SITIO SAO JOSE CRUZEIRO", "vlLiqNf": 73672.7 },
+      {"instancia": "USC", "noNf": 7197.0, "cdSerieNf": "2", "fazenda": "SITIO SAO JOSE CRUZEIRO", "vlLiqNf": 34270.9 },
+      {"instancia": "USC", "noNf": 7211.0, "cdSerieNf": "2", "fazenda": "FAZENDA SANTA MARIA", "vlLiqNf": 13148.56 },
+      {"instancia": "USC", "noNf": 7212.0, "cdSerieNf": "2", "fazenda": "SITIO SANTA HELENA", "vlLiqNf": 10355.92 },
+      {"instancia": "USC", "noNf": 7078.0, "cdSerieNf": "2", "fazenda": "SITIO TIJUCO", "vlLiqNf": 17559.19 },
+      {"instancia": "USC", "noNf": 7079.0, "cdSerieNf": "2", "fazenda": "SITIO PALMITAL", "vlLiqNf": 2036.73 },
+      {"instancia": "USC", "noNf": 7080.0, "cdSerieNf": "2", "fazenda": "SITIO SAO MATHEUS", "vlLiqNf": 7181.62 },
+      {"instancia": "USC", "noNf": 7081.0, "cdSerieNf": "2", "fazenda": "SITIO SANTA ROSA", "vlLiqNf": 9041.12 }
+  ]
+}
